@@ -6,7 +6,7 @@
   <li>🎯 Atualmente estou estudando:<b> HTML, CSS e JavaScript</b></li>
   <li>📝 Cursando Análise e Desenvolvimento de Sistemas — 2°semestre</li>
   <li>🔨 Trabalhando em meus primeiros projetos, a fim de colocar meus conhecimentos à prova!</li>
-  <li>💻 Apaixonado por temas como: Hacking e Segurança de Informação</li>
+  <li>💻 Apaixonado por temas como: Hacking e Segurança da Informação</li>
   <li>🌎 Português fluente/Inglês avançado</li>
 </ul><br>
 
