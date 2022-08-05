@@ -10,15 +10,15 @@
   <li>💻 Apaixonado por temas como: programação, games, hacking e segurança da informação.</li>
   <li>🌎 Português fluente/Inglês avançado.</li>
 </ul><br>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvinicius.ribeiro@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </div><br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jvinicius-ribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&&layout=compact"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/><br>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
