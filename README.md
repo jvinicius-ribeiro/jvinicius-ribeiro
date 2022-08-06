@@ -1,5 +1,4 @@
-<h1>Olá!! Sejam bem-vindos ao meu perfil no GitHub!</h1>
-<h2 align="center">🚀 <u>Sobre mim</u></h2><br>
+<h2 align="center">🚀 <u>Sejam bem-vindos ao meu perfil no GitHub!</u></h2><br>
   <p>Me chamo <a href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank">Vinicius Ribeiro</a> e moro em São Paulo-SP. Curioso por natureza e apaixonado por tecnologia desde a minha infância, sou iniciante em Desenvolvimento Front-end e estou motivado em meu objetivo de me tornar um dev de respeito! 🤓</p><br>
 
 <ul>
