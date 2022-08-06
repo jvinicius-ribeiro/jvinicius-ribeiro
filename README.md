@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2>🚀 <u>Contato</u></h2><br>
-  <a href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jvinicius.ribeiro@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </div><br><br>
 
