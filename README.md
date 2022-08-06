@@ -17,8 +17,7 @@
 
 <div align="left">
   <a href="https://github.com/jvinicius-ribeiro">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/><br>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/><br>
   </a>
 </div>
 
