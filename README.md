@@ -17,7 +17,9 @@
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E target="_blank">
   <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white target="_blank"><br>
   <a href="https://github.com/jvinicius-ribeiro"><br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvinicius-ribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-ribeiro&layout=compact&langs_count=6&theme=github_dark"/>
+</div>
   </a>
 </div><br><br>
 
