@@ -1,18 +1,18 @@
-<h2 align="center">🚀 <u>Sejam bem-vindos ao meu perfil no GitHub!</u></h2><br>
-  <p>Me chamo <a href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank">Vinicius Ribeiro</a> e moro em São Paulo-SP. Curioso por natureza e apaixonado por tecnologia desde a minha infância, sempre gostei muito de estudar e aprender coisas novas! Atualmente, sou iniciante no universo da programação e estou muito motivado no meu objetivo de me tornar um Dev de respeito! 🤓</p><br>
+<h2 align="center">🚀 <u>Hey there, welcome to my GitHub profile!</u></h2><br>
+  <p>My name is <a href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank">Vinicius Ribeiro</a> and I'm from São Paulo-SP. Naturally curious and passionate about technology since my childhood, I've always enjoyed studying and learning new things! Currently, I'm a beginner in the programming universe and I'm very motivated to achieve my goal of becoming a great Developer! 🤓</p><br>
 
 <ul>
-  <li>🚀 Estou em busca da minha primeira oportunidade como Desenvolvedor Júnior.</li>
-  <li>📚 Atualmente estudando: JavaScript (reforçando) e NodeJS.</li>
-  <li>🎯 Próximos passos: Fortalecer ainda mais meus conhecimentos em back-end, com NodeJS e estudar MongoDB.</li>
-  <li>📝 Cursando Análise e Desenvolvimento de Sistemas — 3°semestre.</li>
-  <li>🔨 Trabalhando em meus primeiros projetos, a fim de colocar meus conhecimentos em prática.</li>
-  <li>💻 Apaixonado por temas como: tecnologia, games, livros, e-sports e música!</li>
-  <li>🌎 Português fluente/Inglês avançado.</li>
+  <li>🚀 Looking for my first opportunity as a Junior Developer.</li>
+  <li>📚 I'm currently studying JavaScript (improving my knowledge) and NodeJS.</li>
+  <li>🎯 Future plans: Improving more and more my knowledge on back-end technologies, using NodeJS and start learning MongoDB.</li>
+  <li>📝 Studying Systems Analysis and Development - 3rd semester.</li>
+  <li>🔨 Working on my own projects, looking to practice and improve my skills.</li>
+  <li>💻 I love topics such as: technology, gaming, books, e-sports, and music!</li>
+  <li>🌎 Fluent Portuguese/Advanced English.</li>
 </ul><br><br>
 
 <div align="center">
-  <h2>🚀 <u>Tecnologias & Skills</u></h2><br>
+  <h2>🚀 <u>Technologies & Skills</u></h2><br>
   <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white target="_blank">
   <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white target="_blank">
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E target="_blank">
@@ -29,12 +29,12 @@
 </div><br><br>
 
 <div align="center">
-  <h2>🚀 <u>Contato</u></h2><br>
+  <h2>🚀 <u>Contact</u></h2><br>
   <a href="https://www.linkedin.com/in/jvinicius-ribeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:jvinicius.ribeiro@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </div><br><br>
 
-<h3 align="center">Obrigado pela sua visita! Aberto à sugestões e feedbacks =)</h3>
+<h3 align="center">Thank you for checking my profile!! Feel free to make suggestions and feedbacks =)</h3>
 
 
 
