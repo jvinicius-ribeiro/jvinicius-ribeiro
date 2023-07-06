@@ -9,7 +9,7 @@
   <li>🎯 Future plans: Improving more and more my knowledge on back-end technologies, using NodeJS and start learning MongoDB.</li>
   <li>📝 IT Student - Systems Analysis and Development - 4rd semester.</li>
   <li>🔨 Working on my own projects, looking to practice and improve my skills.</li>
-  <li>💻 I love topics such as: coffee, technology, gaming, books, e-sports, and music!</li>
+  <li>💻 I love coffee and talk about technology, gaming, books, e-sports, and music!</li>
   <li>🌎 Fluent Portuguese/Advanced English.</li>
 </ul><br><br>
 
