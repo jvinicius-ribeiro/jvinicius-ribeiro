@@ -7,7 +7,7 @@
   <li>🚀 Looking for my first opportunity as a Junior Developer.</li>
   <li>🎯 I'm currently studying <b>Python and MySQL.</b></li>
   <li>💻 I'm familiar with:<b> HTML, CSS and JavaScript</b> and most of the <b>Microsoft admin apps.</b></li> 
-  <li>📚 IT Student - Systems Analysis and Development - 5rd semester.</li>
+  <li>📚 IT Student - System Analysis and Development - 5rd semester.</li>
   <li>🔨 Working on my own projects, looking to practice and improve my skills.</li>
   <li>🌎 Fluent Portuguese | Advanced English | Currently learning Spanish.</li>
   <li>☕ I love coffee and talking about: games, books, e-sports, and music!</li>
